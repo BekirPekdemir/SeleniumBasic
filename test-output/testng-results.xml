@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="144075" started-at="2019-06-23T16:06:47Z" finished-at="2019-06-23T16:09:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="144075" started-at="2019-06-23T16:06:47Z" finished-at="2019-06-23T16:09:11Z">
+      <class name="com.class_12.BrokenLinksExersize">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.class_12.BrokenLinksExersize@6e1567f1]" name="setUp" is-config="true" duration-ms="9543" started-at="2019-06-23T16:07:28Z" finished-at="2019-06-23T16:07:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="brokenLinksVerification()[pri:0, instance:com.class_12.BrokenLinksExersize@6e1567f1]" name="brokenLinksVerification" duration-ms="86500" started-at="2019-06-23T16:07:38Z" finished-at="2019-06-23T16:09:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- brokenLinksVerification -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.class_12.BrokenLinksExersize@6e1567f1]" name="tearDown" is-config="true" duration-ms="761" started-at="2019-06-23T16:09:04Z" finished-at="2019-06-23T16:09:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.class_12.BrokenLinksExersize -->
+      <class name="com.class_12.OrangeHRM">
+        <test-method status="PASS" signature="loginOrangeHRM()[pri:0, instance:com.class_12.OrangeHRM@27c20538]" name="loginOrangeHRM" duration-ms="8383" started-at="2019-06-23T16:06:47Z" finished-at="2019-06-23T16:06:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginOrangeHRM -->
+      </class> <!-- com.class_12.OrangeHRM -->
+      <class name="com.class_12.FlightSearch">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.class_12.FlightSearch@72d818d1]" name="setUp" is-config="true" duration-ms="11828" started-at="2019-06-23T16:06:55Z" finished-at="2019-06-23T16:07:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchFlight()[pri:0, instance:com.class_12.FlightSearch@72d818d1]" name="searchFlight" duration-ms="8016" started-at="2019-06-23T16:07:07Z" finished-at="2019-06-23T16:07:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchFlight -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.class_12.FlightSearch@72d818d1]" name="tearDown" is-config="true" duration-ms="842" started-at="2019-06-23T16:07:15Z" finished-at="2019-06-23T16:07:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.class_12.FlightSearch -->
+      <class name="com.class_12.BrokenLinksDemo">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.class_12.BrokenLinksDemo@6e06451e]" name="setUp" is-config="true" duration-ms="4454" started-at="2019-06-23T16:07:16Z" finished-at="2019-06-23T16:07:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="brokenLinksVerification()[pri:0, instance:com.class_12.BrokenLinksDemo@6e06451e]" name="brokenLinksVerification" duration-ms="6778" started-at="2019-06-23T16:07:21Z" finished-at="2019-06-23T16:07:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- brokenLinksVerification -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.class_12.BrokenLinksDemo@6e06451e]" name="tearDown" is-config="true" duration-ms="709" started-at="2019-06-23T16:07:27Z" finished-at="2019-06-23T16:07:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.class_12.BrokenLinksDemo -->
+      <class name="com.class_12.ReadingPropertyFile">
+        <test-method status="PASS" signature="readFile()[pri:0, instance:com.class_12.ReadingPropertyFile@59494225]" name="readFile" duration-ms="6199" started-at="2019-06-23T16:09:05Z" finished-at="2019-06-23T16:09:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readFile -->
+      </class> <!-- com.class_12.ReadingPropertyFile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
